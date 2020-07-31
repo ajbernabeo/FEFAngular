@@ -1,0 +1,24 @@
+#header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header img {
+    max-width: 300px;
+    border: 1px solid black;
+    box-shadow: 2px 5px 2px rgb(166, 166, 166);
+}
+
+#city {
+    background-color: teal;
+    padding: 4px;
+    border-style: dotted;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+#tagLine {
+    font-size: 40px;
+    color: blue;
+    font-family: 'Gaegu', cursive;
+}
